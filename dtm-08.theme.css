@@ -19,5 +19,5 @@
   --PointlesslyLongVariableNameThatSupposedlyControlsAWarningAboutTheThemeBeingOutdatedButWhatDoIKnow: none; /* this variable wants you to leave it alone, please respect its wish unless you like red text at the bottom of the sidebar in user settings */
   
 * {
-  font-family: Helvetica,Arial,sans-serif !important;
+  font-family: Tahoma,Verdana,Helvetica,Arial,sans-serif !important;
 }
