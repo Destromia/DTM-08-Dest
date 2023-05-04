@@ -4,7 +4,7 @@
   --login-background: url(https://cdn.discordapp.com/attachments/733624227378495488/1030444096210358342/fd91131ea693096d6be5e8aa99d18f9e.jpg);
   --login-background-source: "Discord"; /* this is where the login background is from */
   --ContextMenuBackgroundColorDark: #000; /* set to #0a0a0a if you disable blur */
-  --ContextMenuBackgroundColorLight: #fffe; /* set to #fff if you disable blur */
+  --ContextMenuBackgroundColorLight: #fff; /* set to #fff if you disable blur */
   --ContextMenuBackgroundBlur: none /* context menu background blur | default: blur(10px) | disable: none */;
   --SettingsSlideAnimDuration1: 0s; /* the whole 'zoom out' effect thing idk what its called | default: .8s | disable: 0s */
   --SettingsSlideAnimDuration2: 0s; /* the sliding effect | default: .5s | disable: 0s */
