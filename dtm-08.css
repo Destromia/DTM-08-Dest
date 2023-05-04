@@ -3,10 +3,9 @@
   --theme-verdate: "May 1, 2023";
   --login-background: url(https://cdn.discordapp.com/attachments/733624227378495488/1030444096210358342/fd91131ea693096d6be5e8aa99d18f9e.jpg);
   --login-background-source: "Discord"; /* this is where the login background is from */
-  --font-display: Whitney,"gg sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
-  --ContextMenuBackgroundColorDark: #0008; /* set to #0a0a0a if you disable blur */
+  --ContextMenuBackgroundColorDark: #0a0a0a; /* set to #0a0a0a if you disable blur */
   --ContextMenuBackgroundColorLight: #fffe; /* set to #fff if you disable blur */
-  --ContextMenuBackgroundBlur: blur(10px) /* context menu background blur | default: blur(10px) | disable: none*/;
+  --ContextMenuBackgroundBlur: none /* context menu background blur | default: blur(10px) | disable: none */;
   --SettingsSlideAnimDuration1: 0s; /* the whole 'zoom out' effect thing idk what its called | default: .8s | disable: 0s */
   --SettingsSlideAnimDuration2: 0s; /* the sliding effect | default: .5s | disable: 0s */
 }
