@@ -6393,3 +6393,6 @@ html.theme-dark .footer-IubaaS {
 .thin-RnSY0a .fade-27X6bG:hover:not {
   scrollbar-color: var(--scrollbar-thin-thumb);
 }
+.scrollerFade-1Ijw5y .scroller-2FKFPG::-webkit-scrollbar-thumb, .scrollerFade-1Ijw5y .scroller-2FKFPG::-webkit-scrollbar-track {
+  visibility: visible !important;
+}
