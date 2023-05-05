@@ -6390,6 +6390,6 @@ html.theme-dark .footer-IubaaS {
 .theme-dark .spoilerText-2G40u0.hidden-2lQZ5q:hover {
   box-shadow: inset 0 0 0 1px #fff2, 0 1px 3px #0008;
 }
-.thin-RnSY0a.fade-27X6bG:hover:not {
+.thin-RnSY0a .fade-27X6bG:hover:not {
   scrollbar-color: var(--scrollbar-thin-thumb);
 }
